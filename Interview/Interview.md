@@ -6,3 +6,5 @@
 ### [Unexpected Interview Questions](https://www.linkedin.com/posts/atul3_most-dreaded-interview-questions-activity-7041991565157744640-19oD?utm_source=share&utm_medium=member_desktop)
 
 ### [ASCII Table](https://fastbitlab.com/wp-content/uploads/2022/05/Figure-1-15.png)
+
+### Learn about linux directives and other linux stuff
