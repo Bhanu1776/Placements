@@ -34,3 +34,12 @@
 - [SQL vs MongoDB](https://www.linkedin.com/feed/update/urn:li:activity:7050316330746454016?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7050316330746454016%29)
 
 - [Cloud Computing Arch in short)](https://www.youtube.com/watch?v=Pq7RZ4kp-jg&ab_channel=TanayPratap)
+
+
+### Fundamentals of web --> Important af!
+
+### When we hit a web page what all come first from html css and js
+
+### Diff between http and https
+
+### diff between let var and const
