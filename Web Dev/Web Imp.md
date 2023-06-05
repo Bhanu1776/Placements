@@ -15,6 +15,9 @@
 
 - [Javascript practice questions - repo](https://github.com/lydiahallie/javascript-questions)
 
+- [complete javascript interview questions (IMP)](https://youtu.be/mrhYod2W_V0)
+
+
 
 ## ReactJS
 
@@ -27,6 +30,10 @@
 - [SSR, SSG, ISR (Data Fetching) ](https://youtu.be/wm5gMKuwSYk "NextJs stuff")
 
 - [All About MERN stack)](https://youtu.be/L_eF8az2cSA "MERN Stack Short video")
+
+- Why react allows only one way data binding why not two way like angularjs
+
+- [React top interview questions with answer youtube (IMP)](https://youtu.be/o22KRrxab18)
 
 
 ## DataBase
