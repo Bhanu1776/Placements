@@ -35,6 +35,9 @@
 
 - [React top interview questions with answer youtube (IMP)](https://youtu.be/o22KRrxab18)
 
+- [React Lifecycle Methods](https://youtu.be/UbLYdbOPLe8)
+
+
 
 ## DataBase
 
@@ -44,6 +47,8 @@
 
 
 ### Fundamentals of web --> Important af!
+
+[How internet works](https://youtu.be/YE-dA5ZXCs0)
 
 ### When we hit a web page what all come first from html css and js
 
