@@ -8,3 +8,5 @@
 ### [ASCII Table](https://fastbitlab.com/wp-content/uploads/2022/05/Figure-1-15.png)
 
 ### Learn about linux directives and other linux stuff
+
+[https://youtu.be/C1ciEcoa3eM](Writting emails made easier)
