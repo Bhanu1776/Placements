@@ -9,4 +9,4 @@
 
 ### Learn about linux directives and other linux stuff
 
-[https://youtu.be/C1ciEcoa3eM](Writting emails made easier)
+[Writting emails made easier](https://youtu.be/C1ciEcoa3eM)
