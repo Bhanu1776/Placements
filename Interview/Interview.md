@@ -9,4 +9,6 @@
 
 ### Learn about linux directives and other linux stuff
 
-[Writting emails made easier](https://youtu.be/C1ciEcoa3eM)
+### [Writting emails made easier](https://youtu.be/C1ciEcoa3eM)
+
+### [What is CI-CD](https://youtu.be/tl81sSqXM4I)
