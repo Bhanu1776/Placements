@@ -175,3 +175,31 @@ At this point in time, to be honest, I do not have any commitment to a particula
 had a heated discussion. But it's never been outside the boundary of professionalism. If a person is having some problem, then all of us and then try to solve it in such a way that everything goes smoothly.
 
 ## Rate yourself from the scale of 1 to 10??
+
+## What is your favourite subject and why?
+
+## Which subject do you hate and why?
+
+## Why do you want to join this company?
+
+## What irritates you about people
+
+## What do you know about BCP?
+
+## What are your leadership skills?
+
+## Time management skills
+
+## How do you cope up with pressure?
+
+## Are you a team player??
+
+## Would you work overtime or on weekends?
+
+## What is your Deam company?
+
+## What are your hobbies?
+
+## Client data protection?
+
+## How do you rate me as an interviewer? 
