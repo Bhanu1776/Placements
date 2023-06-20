@@ -37,6 +37,8 @@
 
 - [React Lifecycle Methods](https://youtu.be/UbLYdbOPLe8)
 
+-[React Interview tanay Pratap](https://youtu.be/0cvp_yY-818)
+
 
 
 ## DataBase
